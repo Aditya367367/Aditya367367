@@ -64,6 +64,4 @@
 
 ---
 
-### 🔄 Want Help Updating It Regularly?
-Let me know if you'd like me to auto-update your stats or generate a portfolio website based on this!
 
