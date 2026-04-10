@@ -54,6 +54,9 @@
 ### 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://devsurya3.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/aditya-chauhan-1b1a95228" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
