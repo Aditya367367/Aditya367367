@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Software+Engineer;Clean+Code+Advocate;Lifelong+Learner" alt="Typing animation" />
 </p>
 
----
+--- 
 
 ### 🧑‍💻 About Me
 
