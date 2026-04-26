@@ -19,6 +19,7 @@
   - 🧠 System Design
   - ⚙️ DevOps
   - 🌐 Django & Next.js
+    
 
 ---
 
