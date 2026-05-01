@@ -7,7 +7,7 @@
 
 --- 
  
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me 
 
 - 🎓 **BCA Graduate**, Yashwantrao Chavan Maharashtra Open University (2024)
 - 💼 **Associate Software Engineer**, focused on building **scalable B2B web apps**
