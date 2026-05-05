@@ -13,7 +13,7 @@
 - 💼 **Associate Software Engineer**, focused on building **scalable B2B web apps**
 - 👨‍💻 Worked remotely at:
   - 📍 GrapplTech – Front-End Developer
-  - 📍 Rachayitha – Front-End Developer 
+  - 📍 Rachayitha – Front-End Developer  
   - 📍 OpenQuantiy – Software Engineer
 - 🌱 Currently diving deeper into:
   - 🧠 System Design
