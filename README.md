@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Chauhan</h1>
-<h3 align="center">🚀 Full-Stack Developer | React.js · Next.js · Django · Python | Mumbai, India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer | React.js · Next.js · Django · Python | Mumbai, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React.js+%2B+Next.js+%2B+Django;1.5%2B+Years+Building+%26+Shipping;Clean+Code+Advocate;Lifelong+Learner" alt="Typing animation" />
