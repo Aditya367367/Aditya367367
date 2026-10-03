@@ -142,7 +142,7 @@
   </a>
 </p>
 
-<p align="center">📞 +91 8369899103 &nbsp;|&nbsp; 📍 Mumbai, India</p>
+<p align="center"> &nbsp;|&nbsp; 📍 Mumbai, India</p>
 
 ---
 
